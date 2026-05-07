@@ -39,3 +39,8 @@ Built using TypeScript.
 ## ⚡ Fun Fact
 
 I love building modern UI and frontend projects.
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijitSahoo266&show_icons=true&theme=radical)
