@@ -1,32 +1,52 @@
 # Hi 👋, I'm Abhijit Sahoo
 
-💻 Frontend Developer  
-🏢 Working at Comminent Pvt Ltd  
-🌱 Currently learning React & Advanced JavaScript  
+### 🚀 Software Engineer | Full Stack Developer
+
+💼 Currently working at **Comminent Pvt Ltd**  
+🌱 Passionate about building modern web & mobile applications  
 📍 Bangalore, India  
 
 ---
 
-## 🚀 Skills
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- React Native
 - TypeScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- PostgreSQL
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🛒 Myntra Clone
-Developed using HTML, CSS and JavaScript.
+An e-commerce frontend clone built using HTML, CSS, and JavaScript with responsive UI design.
 
 ### 🚗 Vehicle App
-Vehicle management related frontend project.
+A mobile-focused application developed with modern frontend technologies for vehicle-related management features.
 
 ### 🌐 Alokti Website
-Built using TypeScript.
+A TypeScript-based web application with clean UI and scalable architecture.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced React Patterns
+- Backend Architecture
+- Performance Optimization
+- Full Stack Application Development
 
 ---
 
@@ -36,11 +56,8 @@ Built using TypeScript.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ About Me
 
-I love building modern UI and frontend projects.
+I enjoy creating responsive user interfaces, solving real-world problems, and learning modern technologies to build scalable applications.
+
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhijitSahoo266&show_icons=true&theme=radical)
