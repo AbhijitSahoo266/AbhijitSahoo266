@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Abhijit Sahoo
 
-<!--
-**AbhijitSahoo266/AbhijitSahoo266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🏢 Working at Comminent Pvt Ltd  
+🌱 Currently learning React & Advanced JavaScript  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+---
+
+## 📌 Projects
+
+### 🛒 Myntra Clone
+Developed using HTML, CSS and JavaScript.
+
+### 🚗 Vehicle App
+Vehicle management related frontend project.
+
+### 🌐 Alokti Website
+Built using TypeScript.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/AbhijitSahoo266
+
+---
+
+## ⚡ Fun Fact
+
+I love building modern UI and frontend projects.
